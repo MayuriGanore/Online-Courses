@@ -26,4 +26,10 @@ EX :-
           "platform" : "w3schools",
           "courseLink" : "https://www.w3schools.com/python/default.asp"
         }
+        {
+          "id" : "534",
+          "courseName" : "Reasoning Aptitude for Placements 2022 - Logical Reasoning",
+          "platform" : "Udemy",
+          "courseLink" : "https://www.udemy.com/course/reasoning-aptitude-for-placementslacements-2020-tricks/"
+        }
      ]
